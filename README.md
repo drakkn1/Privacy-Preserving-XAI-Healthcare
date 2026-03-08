@@ -39,3 +39,13 @@ train_model.py — main training and evaluation script
 federated_training.py — implementation of the federated learning model
 explainability.py — SHAP explanation generation and filtering
 requirements.txt — required Python dependencies
+
+## Datasets
+
+The framework is designed to operate on healthcare datasets such as:
+
+- MIMIC-IV
+
+- eICU Collaborative Research Database
+
+Access to these datasets requires credentialed approval through PhysioNet.
